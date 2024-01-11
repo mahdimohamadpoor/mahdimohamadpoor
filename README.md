@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm mahdimohamadpoor</h1>
-<h3 align="center">A Passionate Front-end Developer From Persia</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+![image](https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif)
+<h1 align="center">Hi 👋, I'm Mahdi Mohamadpoor</h1>
+<h3 align="center">A Passionate Front-end Developer From IRAN</h3>
+<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdimohamadpoor&label=Profile%20views&color=0e75b6&style=flat" alt="mahdimohamadpoor" /> </p>
 
@@ -35,3 +36,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdimohamadpoor&show_icons=true&locale=en&layout=compact" alt="mahdimohamadpoor" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdimohamadpoor&show_icons=true&locale=en" alt="mahdimohamadpoor" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdimohamadpoor&" alt="mahdimohamadpoor"></p>
