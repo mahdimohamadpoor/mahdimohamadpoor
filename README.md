@@ -1,7 +1,7 @@
-![image](https://hackernoon.com/hn-images/1*ck6cRbbe3uaelEG2JPsIMw.gif)
+![image](https://opensource.com/sites/default/files/uploads/with_fzf.gif)
 <h1 align="center">Hi 👋, I'm Mahdi Mohamadpoor</h1>
 <h3 align="center">A Passionate Front-end Developer From IRAN</h3>
-<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdimohamadpoor&label=Profile%20views&color=0e75b6&style=flat" alt="mahdimohamadpoor" /> </p>
 
