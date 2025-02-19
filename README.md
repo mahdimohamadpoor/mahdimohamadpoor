@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdimohamadpoor&label=Profile%20views&color=0e75b6&style=flat" alt="mahdimohamadpoor" /> </p>
 
-- 🔭 I’m currently working on **react practice projects**
+- 🔭 I’m currently working on **Asp.Net**
 
 - 🌱 I’m currently learning **React , Asp.Net , Angular , Network (CCNA)**
 
