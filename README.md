@@ -1,13 +1,13 @@
 ![image](https://cdn.wallpapersafari.com/63/86/E2v5jl.gif)
 <h1 align="center">Hi 👋, I'm Mahdi Mohamadpoor</h1>
-<h3 align="center">A Passionate Front-end Developer From IRAN</h3>
+<h3 align="center">Full Stack Developer </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdimohamadpoor&label=Profile%20views&color=0e75b6&style=flat" alt="mahdimohamadpoor" /> </p>
 
 - 🔭 I’m currently working on **react practice projects**
 
-- 🌱 I’m currently learning **React , Django , Network+**
+- 🌱 I’m currently learning **React , Asp.Net , Angular , Network (CCNA)**
 
 - 🤝 I’m looking for help with **social media practice**
 
@@ -15,13 +15,13 @@
 
 - 📝 I regularly write articles on [https://mahdimhp.ir](https://mahdimhp.ir)
 
-- 💬 Ask me about **React , Ui & ux**
+- 💬 Ask me about ** Exception :) **
 
 - 📫 How to reach me **mahdimhp76@gmail.com**
 
 - 📄 Know about my experiences [https://mahdimhp.ir](https://mahdimhp.ir)
 
-- ⚡ Fun fact **i think i have to get a job please hire me :)**
+- ⚡ Fun fact ** Never Stop Learning :) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
